@@ -100,15 +100,15 @@ content:
         caption: May 2018 - Present
         caption: San Jose, CA
         description: | # this will include new lines to allow paragraphs
-            -	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
-            -	Designed and built the integration and reporting architecture needed to enable integration between Oracle Cloud and other reporting tools like MicroStrategy and performed data mapping between the systems.
-            -	Developed a prototype for Pricing and PaaS layer in Oracle VBCS to integrate Oracle Cloud Projects and Revenue with third party service, delivery and fulfillment systems e.g., Salesforce, ServiceNow etc.
-            -	Developed Functional and technical specification documents for reports (localization included) and conversions in Oracle Cloud modules of Purchasing, Manufacturing, SCM, Financials (Revenue Management included), Projects, Service Contracts, Subscription Management and Fixed Assets. Lead the Reports and Conversion teams as well.
-            -	Developed Dual Reporting Report of IFRS 15 vs GAAP Accounting for Revenue Recognition.
-            -	Worked on integration of Zuora RevPro with Oracle, Salesforce and other applications via Pentaho and MuleSoft.
-            -	Audited and tested several financial year-end reports across multiple Oracle integrated systems for SOX compliance for a Technology conglomerate.
+                -	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
+                -	Designed and built the integration and reporting architecture needed to enable integration between Oracle Cloud and other reporting tools like MicroStrategy and performed data mapping between the systems.
+                -	Developed a prototype for Pricing and PaaS layer in Oracle VBCS to integrate Oracle Cloud Projects and Revenue with third party service, delivery and fulfillment systems e.g., Salesforce, ServiceNow etc.
+                -	Developed Functional and technical specification documents for reports (localization included) and conversions in Oracle Cloud modules of Purchasing, Manufacturing, SCM, Financials (Revenue Management included), Projects, Service Contracts, Subscription Management and Fixed Assets. Lead the Reports and Conversion teams as well.
+                -	Developed Dual Reporting Report of IFRS 15 vs GAAP Accounting for Revenue Recognition.
+                -	Worked on integration of Zuora RevPro with Oracle, Salesforce and other applications via Pentaho and MuleSoft.
+                -	Audited and tested several financial year-end reports across multiple Oracle integrated systems for SOX compliance for a Technology conglomerate.
 
-    # layout: list # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Accenture
