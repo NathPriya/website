@@ -80,8 +80,8 @@ content:
               - Reporting Tools:	Tableau, Power BI, Oracle Reports 6i/10g, XML/BI Publisher
               - Utilities: 	JIRA, Oracle Integration Cloud, HP Service Desk, Salesforce Remedy Force, Rational Clear Quest, Putty, WinSCP, FileZilla, PVCS, Microsoft Office Suite, Gsuite, Git tools (Github)
 
-    layout: list # Type of content section (list/text)
-    content:
+#    layout: list # Type of content section (list/text)
+#    content:
       - layout: left
         title: Functional
         description: | # this will include new lines to allow paragraphs
