@@ -54,7 +54,7 @@ I have over 10 years of experience in PricewaterhouseCoopers and Accenture with 
 content:
 
   - title: Professional Summary # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
         description: | # this will include new lines to allow paragraphs
                 -	10+ years of experience in end-to-end rollout, implementation, support and upgrade in Oracle Cloud, Oracle E-Business Suite 11i/R12 as Oracle Apps Techno-Functional Manager.
@@ -140,7 +140,7 @@ content:
                 -	Worked on test script creation and defect resolution for Unit testing, UAT, SIT and post go-live
 
 
-  - title: Education and Certifications# Title for the section
+  - title: Education and Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
