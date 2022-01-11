@@ -81,7 +81,7 @@ content:
               - Utilities: 	JIRA, Oracle Integration Cloud, HP Service Desk, Salesforce Remedy Force, Rational Clear Quest, Putty, WinSCP, FileZilla, PVCS, Microsoft Office Suite, Gsuite, Git tools (Github)
 
 #    layout: list # Type of content section (list/text)
-#    content:
+    content:
       - layout: left
         title: Functional
         description: | # this will include new lines to allow paragraphs
@@ -108,7 +108,7 @@ content:
             -	Worked on integration of Zuora RevPro with Oracle, Salesforce and other applications via Pentaho and MuleSoft.
             -	Audited and tested several financial year-end reports across multiple Oracle integrated systems for SOX compliance for a Technology conglomerate.
 
-    layout: list # Type of content section (list/text)
+    # layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Accenture
