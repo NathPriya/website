@@ -15,6 +15,7 @@ website: https://nathpriya.github.io/website/
 darkmode: false
 
 # Social links
+linkedin_username: priya-nath
 twitter_username: pRiya_nAth_
 github_username:  NathPriya
 # stackoverflow_username: "00000001"
@@ -22,7 +23,7 @@ github_username:  NathPriya
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: priyanath.13
-linkedin_username: priya-nath
+
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,8 +49,7 @@ linkedin_username: priya-nath
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Priya Nath and I'm a Manager with PwC.
-  I have over 10 years of experience in PricewaterhouseCoopers and Accenture with proven ability to manage and work on multiple projects with diverse teams while meeting challenging deadlines in highly paced environments.
+I have over 10 years of experience in PricewaterhouseCoopers and Accenture with proven ability to manage and work on multiple projects with diverse teams while meeting challenging deadlines in highly paced environments.
 
 content:
 
@@ -58,13 +58,13 @@ content:
     content:
       - layout: left
         description: | # this will include new lines to allow paragraphs
-                ●	10+ years of experience in end-to-end rollout, implementation, support and upgrade in Oracle Cloud, Oracle E-Business Suite 11i/R12 as Oracle Apps Techno-Functional Manager.
-                ●	Winner of several awards within Accenture and PwC, for team work, innovation, automation and value creation.
-                ●	Completed training programs on Oracle Cloud applications and Integration, SOA, OBIEEE, ADF, OAF, Performance Tuning, Hyperion Essbase.
-                ●	As a trainer, conducted onboarding trainings for New Joiners and experienced hires.
-                ●	Provided flexible support for year-end and month-end closures and reconciliations. Provided risk analysis and risk mitigation strategies to various clients.
-                ●	Automated processes using UI Path, Alteryx and Tableau.
-                ●	AI/ML Enthusiast, Digital Accelerator and upskilling at PwC
+                -	10+ years of experience in end-to-end rollout, implementation, support and upgrade in Oracle Cloud, Oracle E-Business Suite 11i/R12 as Oracle Apps Techno-Functional Manager.
+                -	Winner of several awards within Accenture and PwC, for team work, innovation, automation and value creation.
+                -	Completed training programs on Oracle Cloud applications and Integration, SOA, OBIEEE, ADF, OAF, Performance Tuning, Hyperion Essbase.
+                -	As a trainer, conducted onboarding trainings for New Joiners and experienced hires.
+                -	Provided flexible support for year-end and month-end closures and reconciliations. Provided risk analysis and risk mitigation strategies to various clients.
+                -	Automated processes using UI Path, Alteryx and Tableau.
+                -	AI/ML Enthusiast, Digital Accelerator and upskilling at PwC
 
 
   - title: Skills # Title for the section
@@ -73,21 +73,21 @@ content:
       - layout: left
         title: Technical
         description: | # this will include new lines to allow paragraphs
-                Oracle Components:	Reports, Interfaces, Conversions, Extensions, Forms, Workflows
-                Languages:	SQL, PL/SQL, Shell Scripting, Java, Python
-                Tools:	Alteryx, Oracle VBCS, Alteryx, UI Path, SQL * Loader, TOAD, Oracle Workflow Builder, SQL Developer
-                Databases:	Oracle Cloud, 10g,11g, 12c
-                UI Tools:	Oracle Forms 6i/10g, Form Personalization, OAF using JDeveloper 9i/10g, Oracle Workflow Builder (2.6.3.5)
-                Reporting Tools:	Tableau, Power BI, Oracle Reports 6i/10g, XML/BI Publisher
-                Utilities: 	JIRA, Oracle Integration Cloud, HP Service Desk, Salesforce Remedy Force, Rational Clear Quest, Putty, WinSCP, FileZilla, PVCS, Microsoft Office Suite, Gsuite, Git tools (Github)
+              - Oracle Components:	Reports, Interfaces, Conversions, Extensions, Forms, Workflows
+              - Languages:	SQL, PL/SQL, Shell Scripting, Java, Python
+              - Tools:	Alteryx, Oracle VBCS, Alteryx, UI Path, SQL * Loader, TOAD, Oracle Workflow Builder, SQL Developer
+              - Databases:	Oracle Cloud, 10g,11g, 12c
+              - UI Tools:	Oracle Forms 6i/10g, Form Personalization, OAF using JDeveloper 9i/10g, Oracle Workflow Builder (2.6.3.5)
+              - Reporting Tools:	Tableau, Power BI, Oracle Reports 6i/10g, XML/BI Publisher
+              - Utilities: 	JIRA, Oracle Integration Cloud, HP Service Desk, Salesforce Remedy Force, Rational Clear Quest, Putty, WinSCP, FileZilla, PVCS, Microsoft Office Suite, Gsuite, Git tools (Github)
 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Functional
         description: | # this will include new lines to allow paragraphs
-                Oracle Cloud, Oracle E-Business Suite 11i/R12, Zuora RevPro, Salesforce, ServiceNow
-                Financials: GL (General Ledger), AP (Payables), AR (Receivables), FA (Fixed Assets), OM (Order Management), SCM (Supply Chain Management), INV (Inventory), PO (Purchase Order), CRM (Customer Relationship Management), OLFM (Oracle Lease and Finance Management), Install Base, Oracle Process Manufacturing (OPM), O2C and P2P cycles, Sysadmin and AOL activities, Revenue Recognition, Oracle Subscription Management
+              - Oracle Cloud, Oracle E-Business Suite 11i/R12, Zuora RevPro, Salesforce, ServiceNow
+              - Financials: GL (General Ledger), AP (Payables), AR (Receivables), FA (Fixed Assets), OM (Order Management), SCM (Supply Chain Management), INV (Inventory), PO (Purchase Order), CRM (Customer Relationship Management), OLFM (Oracle Lease and Finance Management), Install Base, Oracle Process Manufacturing (OPM), O2C and P2P cycles, Sysadmin and AOL activities, Revenue Recognition, Oracle Subscription Management
 
 
   - title: Experience # Title for the section
@@ -101,13 +101,13 @@ content:
         caption: May 2018 - Present
         caption: San Jose, CA
         description: | # this will include new lines to allow paragraphs
-            ●	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
-            ●	Designed and built the integration and reporting architecture needed to enable integration between Oracle Cloud and other reporting tools like MicroStrategy and performed data mapping between the systems.
-            ●	Developed a prototype for Pricing and PaaS layer in Oracle VBCS to integrate Oracle Cloud Projects and Revenue with third party service, delivery and fulfillment systems e.g., Salesforce, ServiceNow etc.
-            ●	Developed Functional and technical specification documents for reports (localization included) and conversions in Oracle Cloud modules of Purchasing, Manufacturing, SCM, Financials (Revenue Management included), Projects, Service Contracts, Subscription Management and Fixed Assets. Lead the Reports and Conversion teams as well.
-            ●	Developed Dual Reporting Report of IFRS 15 vs GAAP Accounting for Revenue Recognition.
-            ●	Worked on integration of Zuora RevPro with Oracle, Salesforce and other applications via Pentaho and MuleSoft.
-            ●	Audited and tested several financial year-end reports across multiple Oracle integrated systems for SOX compliance for a Technology conglomerate.
+            -	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
+            -	Designed and built the integration and reporting architecture needed to enable integration between Oracle Cloud and other reporting tools like MicroStrategy and performed data mapping between the systems.
+            -	Developed a prototype for Pricing and PaaS layer in Oracle VBCS to integrate Oracle Cloud Projects and Revenue with third party service, delivery and fulfillment systems e.g., Salesforce, ServiceNow etc.
+            -	Developed Functional and technical specification documents for reports (localization included) and conversions in Oracle Cloud modules of Purchasing, Manufacturing, SCM, Financials (Revenue Management included), Projects, Service Contracts, Subscription Management and Fixed Assets. Lead the Reports and Conversion teams as well.
+            -	Developed Dual Reporting Report of IFRS 15 vs GAAP Accounting for Revenue Recognition.
+            -	Worked on integration of Zuora RevPro with Oracle, Salesforce and other applications via Pentaho and MuleSoft.
+            -	Audited and tested several financial year-end reports across multiple Oracle integrated systems for SOX compliance for a Technology conglomerate.
 
     layout: list # Type of content section (list/text)
     content:
@@ -119,26 +119,26 @@ content:
         caption: July 2011 - April 2018
         caption: Wayne, PA, USA/ Bangalore, India, Cape Town, South Africa
         description: | # this will include new lines to allow paragraphs
-                ●	Developed conversion utilities, for upgrade of data from 11i to R12.
-                ●	Worked in additional extensions to accommodate the customizations of formulae, forms, reports, interfaces and accounting templates.
-                ●	The project involved developing complex interfaces with external applications, to send and receive relevant information in order to securitize contracts, and receive the journal entries, based on the pool selection and collateral servicing.
-                ●	Worked on a project involving the reclassification of Direct Finance to Operating Leases to meet the requirements of US GAAP. It involved clearance and reconciliation of account balances.
-                ●	Performed impact analysis in all integrated modules to OLM.
-                ●	Designed and developed multiple forms, extensions, reports, customization of workflows (OLM and FA Account Generator), accounting templates, profile options, value sets, and configuration of DFF's.
-                ●	Worked in Production support of Oracle Apps 11i, and responsible for resolving change requests/defects in the modules of OLM (Oracle Lease Management) and its integration with Oracle Financials General Ledger, Inventory, Order Management, Install Base and Fixed Assets.
-                ●	Worked on complex bug and data fixes in components of reports, forms, interfaces, extensions, OAF, workflows and patch analysis, in the Oracle Lease Management modules of ITR (Invoice to Receipt), DTC (Delinquency to Cash), FIN(Financials), QTT (Quote to Termination), CTB (Cash Application to Booking), ATD (Asset to Disposal), INQ(Inquiry), INT(Interfaces) and Collections.
-                ●	Responsible for technical Status Reporting, technical Issue Resolution and handling of escalations and onsite communication for technical issues, to make sure SLAs are met.
-                ●	Performed conversions i.e., extracted, translated and loaded from legacy system to Oracle in client for the modules of AP, AR, INV and FA
-                ●	Worked on rollouts of Middle East, Asia, Caspian, Latin America and Africa
-                ●	Developed complex form in OPM for Locator movement, to recap sales order and other complex forms in AR.
-                ●	Created conversion utilities with UI for loading data in CRM, Sales Person, OM and HR Locations.
-                ●	Developed Oracle configuration Loaders for Responsibilities, Profile options and other AOL components. Developed MRC Initial balance loader for inventory items loading.
-                ●	Configuration of Stock Locators and Org related setups as per AP 322
-                ●	Developed Latin American Localization RDF reports, XML/BI Publisher reports (including translatable templates).
-                ●	Developed reports for Check Format, bank extracts and reconciliation reports, AR VAT Tax reports, complex dot-matrix based invoice printing reports, payment order reports, Payables VAT Perception, Withholding Taken Flat Files (Income Tax and Gross Revenue), Proforma (Invoice) Report, Ship Ticket and Delivery Ticket audit reports and Remit to (Bill of Sale) Reports, Trial Balance (Localization) reports. and other reports for GL, Inventory Org, Document Ordering, Org assignment and Freight carriers.
-                ●	Developed complex Extension Utilities including, procedures like explaining amount in words. Implemented the procedures for Russian, Spanish, French Portuguese, based on the Latin American localization  
-                ●	Developed UNIX shell Scripts to automate migration of components across environments and automation of validation of the migration of objects.
-                ●	Worked on test script creation and defect resolution for Unit testing, UAT, SIT and post go-live
+                -	Developed conversion utilities, for upgrade of data from 11i to R12.
+                -	Worked in additional extensions to accommodate the customizations of formulae, forms, reports, interfaces and accounting templates.
+                -	The project involved developing complex interfaces with external applications, to send and receive relevant information in order to securitize contracts, and receive the journal entries, based on the pool selection and collateral servicing.
+                -	Worked on a project involving the reclassification of Direct Finance to Operating Leases to meet the requirements of US GAAP. It involved clearance and reconciliation of account balances.
+                -	Performed impact analysis in all integrated modules to OLM.
+                -	Designed and developed multiple forms, extensions, reports, customization of workflows (OLM and FA Account Generator), accounting templates, profile options, value sets, and configuration of DFF's.
+                -	Worked in Production support of Oracle Apps 11i, and responsible for resolving change requests/defects in the modules of OLM (Oracle Lease Management) and its integration with Oracle Financials General Ledger, Inventory, Order Management, Install Base and Fixed Assets.
+                -	Worked on complex bug and data fixes in components of reports, forms, interfaces, extensions, OAF, workflows and patch analysis, in the Oracle Lease Management modules of ITR (Invoice to Receipt), DTC (Delinquency to Cash), FIN(Financials), QTT (Quote to Termination), CTB (Cash Application to Booking), ATD (Asset to Disposal), INQ(Inquiry), INT(Interfaces) and Collections.
+                -	Responsible for technical Status Reporting, technical Issue Resolution and handling of escalations and onsite communication for technical issues, to make sure SLAs are met.
+                -	Performed conversions i.e., extracted, translated and loaded from legacy system to Oracle in client for the modules of AP, AR, INV and FA
+                -	Worked on rollouts of Middle East, Asia, Caspian, Latin America and Africa
+                -	Developed complex form in OPM for Locator movement, to recap sales order and other complex forms in AR.
+                -	Created conversion utilities with UI for loading data in CRM, Sales Person, OM and HR Locations.
+                -	Developed Oracle configuration Loaders for Responsibilities, Profile options and other AOL components. Developed MRC Initial balance loader for inventory items loading.
+                -	Configuration of Stock Locators and Org related setups as per AP 322
+                -	Developed Latin American Localization RDF reports, XML/BI Publisher reports (including translatable templates).
+                -	Developed reports for Check Format, bank extracts and reconciliation reports, AR VAT Tax reports, complex dot-matrix based invoice printing reports, payment order reports, Payables VAT Perception, Withholding Taken Flat Files (Income Tax and Gross Revenue), Proforma (Invoice) Report, Ship Ticket and Delivery Ticket audit reports and Remit to (Bill of Sale) Reports, Trial Balance (Localization) reports. and other reports for GL, Inventory Org, Document Ordering, Org assignment and Freight carriers.
+                -	Developed complex Extension Utilities including, procedures like explaining amount in words. Implemented the procedures for Russian, Spanish, French Portuguese, based on the Latin American localization  
+                -	Developed UNIX shell Scripts to automate migration of components across environments and automation of validation of the migration of objects.
+                -	Worked on test script creation and defect resolution for Unit testing, UAT, SIT and post go-live
 
 
   - title: Education and Certifications# Title for the section
