@@ -72,8 +72,8 @@ content:
         link: pwc.com
         link_text: pwc.com
         sub_title: Manager/ Senior Associate
-        caption: May 2018 - Present
-        quote: >
+        caption: |
+          May 2018 - Present
           San Jose, CA
         #caption: San Jose, CA
         description: | # this will include new lines to allow paragraphs
