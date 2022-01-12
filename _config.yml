@@ -12,32 +12,13 @@ email: nath.v.priya@gmail.com
 website: https://nathpriya.github.io/website/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 linkedin_username: priya-nath
 twitter_username: pRiya_nAth_
 github_username:  NathPriya
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: priyanath.13
-
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -52,8 +33,8 @@ about_content: | # this will include new lines to allow paragraphs
   I have over 10 years of experience in PricewaterhouseCoopers and Accenture with proven ability to manage and work on multiple projects with diverse teams while meeting challenging deadlines in highly paced environments.
 
 content:
-  - title: Professional Summary # Title for the section
-    layout: text # Type of content section (list/text)
+  - title: Professional Summary 
+    layout: text 
     content: | # this will include new lines to allow paragraphs
       -	10+ years of experience in end-to-end rollout, implementation, support and upgrade in Oracle Cloud, Oracle E-Business Suite 11i/R12 as Oracle Apps Techno-Functional Manager.
       -	Winner of several awards within Accenture and PwC, for team work, innovation, automation and value creation.
@@ -64,7 +45,7 @@ content:
       -	AI/ML Enthusiast, Digital Accelerator and upskilling at PwC
 
 
-  - title: Skills # Title for the section
+  - title: Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -83,8 +64,7 @@ content:
           - Oracle Cloud, Oracle E-Business Suite 11i/R12, Zuora RevPro, Salesforce, ServiceNow
           - Financials: GL (General Ledger), AP (Payables), AR (Receivables), FA (Fixed Assets), OM (Order Management), SCM (Supply Chain Management), INV (Inventory), PO (Purchase Order), CRM (Customer Relationship Management), OLFM (Oracle Lease and Finance Management), Install Base, Oracle Process Manufacturing (OPM), O2C and P2P cycles, Sysadmin and AOL activities, Revenue Recognition, Oracle Subscription Management
 
-
-  - title: Experience # Title for the section
+  - title: Experience 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -93,6 +73,8 @@ content:
         link_text: pwc.com
         sub_title: Manager/ Senior Associate
         caption: May 2018 - Present
+        quote: >
+          San Jose, CA
         #caption: San Jose, CA
         description: | # this will include new lines to allow paragraphs
           -	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
@@ -143,7 +125,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References available on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
