@@ -93,7 +93,7 @@ content:
         link_text: pwc.com
         sub_title: Manager/ Senior Associate
         caption: May 2018 - Present
-        caption: San Jose, CA
+        #caption: San Jose, CA
         description: | # this will include new lines to allow paragraphs
           -	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
           -	Designed and built the integration and reporting architecture needed to enable integration between Oracle Cloud and other reporting tools like MicroStrategy and performed data mapping between the systems.
@@ -109,7 +109,7 @@ content:
         link_text: accenture.com
         sub_title: Techno-Functional Lead/ Senior Software Engineer/ Conversions Consultant
         caption: July 2011 - April 2018
-        caption: Wayne, PA, USA/ Bangalore, India, Cape Town, South Africa
+        # caption: Wayne, PA, USA/ Bangalore, India, Cape Town, South Africa
         description: | # this will include new lines to allow paragraphs
           -	Developed conversion utilities, for upgrade of data from 11i to R12.
           -	Worked in additional extensions to accommodate the customizations of formulae, forms, reports, interfaces and accounting templates.
