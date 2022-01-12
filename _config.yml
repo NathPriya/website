@@ -73,10 +73,8 @@ content:
         link_text: pwc.com
         sub_title: Manager/ Senior Associate
         caption: |
-          May 2018 - Present
+          May 2018 - Present              San Jose, CA
 
-          Location: San Jose, CA
-          
         # caption: San Jose, CA
         description: | # this will include new lines to allow paragraphs
           -	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
@@ -93,9 +91,7 @@ content:
         link_text: accenture.com
         sub_title: Techno-Functional Lead/ Senior Software Engineer/ Conversions Consultant
         caption: |
-          July 2011 - April 2018
-
-          Locations: Wayne, PA (USA) / Bangalore (India) / Cape Town (South Africa)
+          July 2011 - April 2018          Wayne, PA (USA) / Bangalore (India) / Cape Town (South Africa)
 
         # caption: Wayne, PA, USA/ Bangalore, India, Cape Town, South Africa
         description: | # this will include new lines to allow paragraphs
