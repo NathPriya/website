@@ -1,5 +1,9 @@
 # Site
 repository: "sproogen/resume-theme"
+favicon: "images/favicon.ico"
+
+# Content configuration version
+version: 2
 
 # Personal info
 name: "Priya Nath"
@@ -15,6 +19,20 @@ linkedin_username: "priya-nath"
 twitter_username: "pRiya_nAth_"
 github_username: "NathPriya"
 instagram_username: "priyanath.13"
+
+# About Section
+about_profile_image: "images/profile.jpg"
+about_content: |
+  Experienced Technology and Program Manager with over 14 years of expertise in program management, supply chain planning, and enterprise systems. Skilled in managing cross-functional teams, designing and deploying ERP capabilities, and delivering innovative solutions in fast-paced environments with challenging deadlines.
+
+- title: "Technical Expertise"
+  layout: list
+  content:
+    - ERP Systems & Tools: Expertise in Oracle Fusion Cloud, Oracle EBS, Salesforce.
+    - Programming & Automation: Skilled in SQL, Python, and Shell Scripting.
+
+# Footer
+footer_show_references: true
 
 # Build settings
 remote_theme: "sproogen/resume-theme"
