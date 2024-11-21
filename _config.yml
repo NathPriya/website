@@ -22,9 +22,13 @@ instagram_username: "priyanath.13"
 
 # About Section
 about_profile_image: "images/profile.jpg"
-about_content: |
-  Experienced Technology and Program Manager with over 14 years of expertise in program management, supply chain planning, and enterprise systems. Skilled in managing cross-functional teams, designing and deploying ERP capabilities, and delivering innovative solutions in fast-paced environments with challenging deadlines.
+about_content: >
+  Experienced Technology and Program Manager with over 14 years of expertise 
+  in program management, supply chain planning, and enterprise systems. Skilled 
+  in managing cross-functional teams, designing and deploying ERP capabilities, 
+  and delivering innovative solutions in fast-paced environments with challenging deadlines.
 
+# Technical Expertise Section
 - title: "Technical Expertise"
   layout: list
   content:
