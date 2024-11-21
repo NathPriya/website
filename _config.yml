@@ -30,39 +30,28 @@ instagram_username: priyanath.13
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I have over 10 years of experience in PricewaterhouseCoopers and Accenture with proven ability to manage and work on multiple projects with diverse teams while meeting challenging deadlines in highly paced environments.
+Experienced Technology and Program Manager with over 14 years of expertise in program management, supply chain planning, and enterprise systems. Skilled in managing cross-functional teams, designing and deploying ERP capabilities, and delivering innovative solutions in fast-paced environments with challenging deadlines. Recognized with multiple awards for teamwork, innovation, and process automation.
 
-content:
-  - title: Professional Summary 
-    layout: text 
-    content: | # this will include new lines to allow paragraphs
-      -	10+ years of experience in end-to-end rollout, implementation, support and upgrade in Oracle Cloud, Oracle E-Business Suite 11i/R12 as Oracle Apps Techno-Functional Manager.
-      -	Winner of several awards within Accenture and PwC, for team work, innovation, automation and value creation.
-      -	Completed training programs on Oracle Cloud applications and Integration, SOA, OBIEEE, ADF, OAF, Performance Tuning, Hyperion Essbase.
-      -	As a trainer, conducted onboarding trainings for New Joiners and experienced hires.
-      -	Provided flexible support for year-end and month-end closures and reconciliations. Provided risk analysis and risk mitigation strategies to various clients.
-      -	Automated processes using UI Path, Alteryx and Tableau.
-      -	AI/ML Enthusiast, Digital Accelerator and upskilling at PwC
-
-
-  - title: Skills
+  - title: Technical Expertise
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Technical
         description: | # this will include new lines to allow paragraphs
-          - Oracle Components:	Reports, Interfaces, Conversions, Extensions, Forms, Workflows
-          - Languages:	SQL, PL/SQL, Shell Scripting, Java, Python
-          - Tools:	Alteryx, Oracle VBCS, Alteryx, UI Path, SQL * Loader, TOAD, Oracle Workflow Builder, SQL Developer
-          - Databases:	Oracle Cloud, 10g,11g, 12c
-          - UI Tools:	Oracle Forms 6i/10g, Form Personalization, OAF using JDeveloper 9i/10g, Oracle Workflow Builder (2.6.3.5)
-          - Reporting Tools:	Tableau, Power BI, Oracle Reports 6i/10g, XML/BI Publisher
-          - Utilities: 	JIRA, Oracle Integration Cloud, HP Service Desk, Salesforce Remedy Force, Rational Clear Quest, Putty, WinSCP, FileZilla, PVCS, Microsoft Office Suite, Gsuite, Git tools (Github)
+•	ERP Systems & Tools: Expertise in Oracle Fusion Cloud, Oracle EBS (11i/R12), Salesforce, ADP, Workday, ServiceNow. Deep knowledge of Oracle modules, including Financials, Supply Chain Management, Customer Relationship Management, Lease and Finance Management, Enterprise Contracts, Quality, Planning, Service, Manufacturing, Logistics and Subscription Management.
+•	Programming & Automation: Proficient in SQL, PL/SQL, Python, Java, Shell Scripting, and tools like UI Path, Alteryx, and Pentaho for process automation.
+•	Data Analytics & Reporting: Skilled in data visualization and reporting using Tableau, Power BI, Oracle Reports, and XML/BI Publisher.
+•	Integration & Middleware: Proficient in Oracle Integration Cloud, and seamlessly connecting ERP systems with various third-party platforms using APIs.
+•	Tools & Utilities: Expertise in JIRA, Git (GitHub), HP Service Desk, Rational Clear Quest, and Microsoft Office Suite.
+•	Databases: Proficient in Oracle ATP, Oracle Cloud, 10g, 11g, and 12c with hands-on experience in SQL Developer and TOAD.
+•	UI Development: Expertise in Oracle VBCS, Oracle Forms, OAF with JDeveloper, Oracle Workflow Builder, and Form Personalization.
+  - title: Core Competencies
       - layout: left
-        title: Functional
         description: | # this will include new lines to allow paragraphs
-          - Oracle Cloud, Oracle E-Business Suite 11i/R12, Zuora RevPro, Salesforce, ServiceNow
-          - Financials: GL (General Ledger), AP (Payables), AR (Receivables), FA (Fixed Assets), OM (Order Management), SCM (Supply Chain Management), INV (Inventory), PO (Purchase Order), CRM (Customer Relationship Management), OLFM (Oracle Lease and Finance Management), Install Base, Oracle Process Manufacturing (OPM), O2C and P2P cycles, Sysadmin and AOL activities, Revenue Recognition, Oracle Subscription Management
+•	Program Leadership: Expertise in managing cross-functional teams, strategic planning, and delivering large-scale projects within tight timelines.
+•	Award-Winning Leadership: Recognized for innovation, teamwork, and process optimization at Accenture and PwC.
+•	Business Optimization: Skilled in financial reconciliations, risk analysis, and driving automation to streamline workflows.
+•	Training & Mentorship: Proven ability to onboard and mentor teams, ensuring seamless knowledge transfer and alignment.
+•	Innovation & Upskilling: AI/ML enthusiast with a focus on implementing emerging technologies to drive business transformation.
 
   - title: Experience 
     layout: list # Type of content section (list/text)
