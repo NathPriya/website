@@ -1,24 +1,24 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: "sproogen/resume-theme"
+favicon: "images/favicon.ico"
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Priya Nath
-title: Technology Manager, Data Analyst, AI/ML Enthusiast
-email: nath.v.priya@gmail.com
-website: https://nathpriya.github.io/website/
+name: "Priya Nath"
+title: "Technology Manager, Data Analyst, AI/ML Enthusiast"
+email: "nath.v.priya@gmail.com"
+website: "https://nathpriya.github.io/website/"
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-linkedin_username: priya-nath
-twitter_username: pRiya_nAth_
-github_username: NathPriya
-instagram_username: priyanath.13
+linkedin_username: "priya-nath"
+twitter_username: "pRiya_nAth_"
+github_username: "NathPriya"
+instagram_username: "priyanath.13"
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -27,11 +27,11 @@ instagram_username: priyanath.13
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_profile_image: images/profile.jpg
-about_content: | 
+about_profile_image: "images/profile.jpg"
+about_content: |
   Experienced Technology and Program Manager with over 14 years of expertise in program management, supply chain planning, and enterprise systems. Skilled in managing cross-functional teams, designing and deploying ERP capabilities, and delivering innovative solutions in fast-paced environments with challenging deadlines. Recognized with multiple awards for teamwork, innovation, and process automation.
 
-- title: Technical Expertise
+- title: "Technical Expertise"
   layout: list
   content:
     - ERP Systems & Tools: Expertise in Oracle Fusion Cloud, Oracle EBS (11i/R12), Salesforce, ADP, Workday, ServiceNow. Deep knowledge of Oracle modules, including Financials, Supply Chain Management, Customer Relationship Management, Lease and Finance Management, Enterprise Contracts, Quality, Planning, Service, Manufacturing, Logistics, and Subscription Management.
@@ -42,7 +42,7 @@ about_content: |
     - Databases: Proficient in Oracle ATP, Oracle Cloud, 10g, 11g, and 12c with hands-on experience in SQL Developer and TOAD.
     - UI Development: Expertise in Oracle VBCS, Oracle Forms, OAF with JDeveloper, Oracle Workflow Builder, and Form Personalization.
 
-- title: Core Competencies
+- title: "Core Competencies"
   layout: list
   content:
     - Program Leadership: Expertise in managing cross-functional teams, strategic planning, and delivering large-scale projects within tight timelines.
@@ -51,15 +51,15 @@ about_content: |
     - Training & Mentorship: Proven ability to onboard and mentor teams, ensuring seamless knowledge transfer and alignment.
     - Innovation & Upskilling: AI/ML enthusiast with a focus on implementing emerging technologies to drive business transformation.
 
-- title: Professional Experience
+- title: "Professional Experience"
   layout: list
   content:
-    - title: PricewaterhouseCoopers
-      link: https://pwc.com
-      link_text: pwc.com
-      sub_title: Manager/Senior Associate
-      dates: May 2018 - Present
-      location: San Jose, CA
+    - title: "PricewaterhouseCoopers"
+      link: "https://pwc.com"
+      link_text: "pwc.com"
+      sub_title: "Manager/Senior Associate"
+      dates: "May 2018 - Present"
+      location: "San Jose, CA"
       description: |
         - Designed and delivered comprehensive supply chain solutions across industries, including Technology, Media, Insurance, Medical Systems, and Consumer Products.
         - Architected and developed integrations between Oracle ERP and third-party platforms (e.g., Salesforce, ServiceNow) using Oracle Integration Cloud (OIC), APIs, Informatica, and Pentaho, enabling seamless data exchange and process automation.
@@ -70,12 +70,12 @@ about_content: |
         - Partnered with global cross-functional teams to implement scalable ERP and supply chain capabilities by integrating data from ERP systems, logistics providers, and external market sources.
         - Conducted SOX compliance audits and validated year-end financial reports for high-profile clients, ensuring strict adherence to regulatory standards.
 
-    - title: Accenture
-      link: https://accenture.com
-      link_text: accenture.com
-      sub_title: Techno-Functional Lead/Senior Software Engineer/Conversions Consultant
-      dates: July 2011 - April 2018
-      location: Wayne, PA (USA) / Bangalore (India) / Cape Town (South Africa)
+    - title: "Accenture"
+      link: "https://accenture.com"
+      link_text: "accenture.com"
+      sub_title: "Techno-Functional Lead/Senior Software Engineer/Conversions Consultant"
+      dates: "July 2011 - April 2018"
+      location: "Wayne, PA (USA) / Bangalore (India) / Cape Town (South Africa)"
       description: |
         - Oracle EBS R12 Upgrade (SCRUM-Agile):
           - Developed conversion utilities to migrate data from Oracle 11i to R12, accommodating custom workflows, formulas, reports, and interfaces.
@@ -91,7 +91,7 @@ about_content: |
           - Developed localized reports and extensions using XML/BI Publisher, meeting regional compliance requirements.
           - Automated migration processes with UNIX shell scripts and ensured successful UAT, SIT, and post-go-live support.
 
-- title: Education and Certifications
+- title: "Education and Certifications"
   layout: text
   content: |
     - Bachelor of Technology (Computer Engineering), NMIMS University, Mumbai, India (2007-2011)
@@ -102,7 +102,7 @@ about_content: |
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: "sproogen/resume-theme"
 
 sass:
   sass_dir: _sass
