@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Priya Nath
-title: Technology Manager,  Data Analyst, AI/ML Enthusiast 
+title: Technology Manager, Data Analyst, AI/ML Enthusiast
 email: nath.v.priya@gmail.com
 website: https://nathpriya.github.io/website/
 
@@ -17,7 +17,7 @@ darkmode: false
 # Social links
 linkedin_username: priya-nath
 twitter_username: pRiya_nAth_
-github_username:  NathPriya
+github_username: NathPriya
 instagram_username: priyanath.13
 
 # Google Analytics and Tag Manager
@@ -27,91 +27,79 @@ instagram_username: priyanath.13
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-Experienced Technology and Program Manager with over 14 years of expertise in program management, supply chain planning, and enterprise systems. Skilled in managing cross-functional teams, designing and deploying ERP capabilities, and delivering innovative solutions in fast-paced environments with challenging deadlines. Recognized with multiple awards for teamwork, innovation, and process automation.
+about_content: | 
+  Experienced Technology and Program Manager with over 14 years of expertise in program management, supply chain planning, and enterprise systems. Skilled in managing cross-functional teams, designing and deploying ERP capabilities, and delivering innovative solutions in fast-paced environments with challenging deadlines. Recognized with multiple awards for teamwork, innovation, and process automation.
 
-  - title: Technical Expertise
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        description: | # this will include new lines to allow paragraphs
-•	ERP Systems & Tools: Expertise in Oracle Fusion Cloud, Oracle EBS (11i/R12), Salesforce, ADP, Workday, ServiceNow. Deep knowledge of Oracle modules, including Financials, Supply Chain Management, Customer Relationship Management, Lease and Finance Management, Enterprise Contracts, Quality, Planning, Service, Manufacturing, Logistics and Subscription Management.
-•	Programming & Automation: Proficient in SQL, PL/SQL, Python, Java, Shell Scripting, and tools like UI Path, Alteryx, and Pentaho for process automation.
-•	Data Analytics & Reporting: Skilled in data visualization and reporting using Tableau, Power BI, Oracle Reports, and XML/BI Publisher.
-•	Integration & Middleware: Proficient in Oracle Integration Cloud, and seamlessly connecting ERP systems with various third-party platforms using APIs.
-•	Tools & Utilities: Expertise in JIRA, Git (GitHub), HP Service Desk, Rational Clear Quest, and Microsoft Office Suite.
-•	Databases: Proficient in Oracle ATP, Oracle Cloud, 10g, 11g, and 12c with hands-on experience in SQL Developer and TOAD.
-•	UI Development: Expertise in Oracle VBCS, Oracle Forms, OAF with JDeveloper, Oracle Workflow Builder, and Form Personalization.
-  - title: Core Competencies
-      - layout: left
-        description: | # this will include new lines to allow paragraphs
-•	Program Leadership: Expertise in managing cross-functional teams, strategic planning, and delivering large-scale projects within tight timelines.
-•	Award-Winning Leadership: Recognized for innovation, teamwork, and process optimization at Accenture and PwC.
-•	Business Optimization: Skilled in financial reconciliations, risk analysis, and driving automation to streamline workflows.
-•	Training & Mentorship: Proven ability to onboard and mentor teams, ensuring seamless knowledge transfer and alignment.
-•	Innovation & Upskilling: AI/ML enthusiast with a focus on implementing emerging technologies to drive business transformation.
+- title: Technical Expertise
+  layout: list
+  content:
+    - ERP Systems & Tools: Expertise in Oracle Fusion Cloud, Oracle EBS (11i/R12), Salesforce, ADP, Workday, ServiceNow. Deep knowledge of Oracle modules, including Financials, Supply Chain Management, Customer Relationship Management, Lease and Finance Management, Enterprise Contracts, Quality, Planning, Service, Manufacturing, Logistics, and Subscription Management.
+    - Programming & Automation: Proficient in SQL, PL/SQL, Python, Java, Shell Scripting, and tools like UI Path, Alteryx, and Pentaho for process automation.
+    - Data Analytics & Reporting: Skilled in data visualization and reporting using Tableau, Power BI, Oracle Reports, and XML/BI Publisher.
+    - Integration & Middleware: Proficient in Oracle Integration Cloud and seamlessly connecting ERP systems with various third-party platforms using APIs.
+    - Tools & Utilities: Expertise in JIRA, Git (GitHub), HP Service Desk, Rational Clear Quest, and Microsoft Office Suite.
+    - Databases: Proficient in Oracle ATP, Oracle Cloud, 10g, 11g, and 12c with hands-on experience in SQL Developer and TOAD.
+    - UI Development: Expertise in Oracle VBCS, Oracle Forms, OAF with JDeveloper, Oracle Workflow Builder, and Form Personalization.
 
-  - title: Professional Experience 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: PricewaterhouseCoopers
-        link: pwc.com
-        link_text: pwc.com
-        sub_title: Manager/Senior Associate
-        caption: | #
-          - May 2018 - Present
+- title: Core Competencies
+  layout: list
+  content:
+    - Program Leadership: Expertise in managing cross-functional teams, strategic planning, and delivering large-scale projects within tight timelines.
+    - Award-Winning Leadership: Recognized for innovation, teamwork, and process optimization at Accenture and PwC.
+    - Business Optimization: Skilled in financial reconciliations, risk analysis, and driving automation to streamline workflows.
+    - Training & Mentorship: Proven ability to onboard and mentor teams, ensuring seamless knowledge transfer and alignment.
+    - Innovation & Upskilling: AI/ML enthusiast with a focus on implementing emerging technologies to drive business transformation.
 
-          - San Jose, CA
+- title: Professional Experience
+  layout: list
+  content:
+    - title: PricewaterhouseCoopers
+      link: https://pwc.com
+      link_text: pwc.com
+      sub_title: Manager/Senior Associate
+      dates: May 2018 - Present
+      location: San Jose, CA
+      description: |
+        - Designed and delivered comprehensive supply chain solutions across industries, including Technology, Media, Insurance, Medical Systems, and Consumer Products.
+        - Architected and developed integrations between Oracle ERP and third-party platforms (e.g., Salesforce, ServiceNow) using Oracle Integration Cloud (OIC), APIs, Informatica, and Pentaho, enabling seamless data exchange and process automation.
+        - Built robust reporting architectures and implemented predictive models using SQL, Python, and visualization tools to forecast demand, optimize inventory levels, and address potential disruptions.
+        - Directed data migrations from legacy systems such as PeopleSoft and Oracle EBS to Oracle Cloud ERP, ensuring accuracy, integrity, and seamless implementation.
+        - Designed and deployed interactive dashboards and reports using Snowflake, BICC, and MicroStrategy to provide actionable insights and enhance supply chain performance monitoring.
+        - Led supply chain optimization efforts by developing advanced algorithms and applying constraint-based planning to improve operational efficiency, reduce costs, and elevate customer satisfaction.
+        - Partnered with global cross-functional teams to implement scalable ERP and supply chain capabilities by integrating data from ERP systems, logistics providers, and external market sources.
+        - Conducted SOX compliance audits and validated year-end financial reports for high-profile clients, ensuring strict adherence to regulatory standards.
 
-        # caption: San Jose, CA
-        description: | # this will include new lines to allow paragraphs
-•	Designed and delivered comprehensive supply chain solutions across industries, including Technology, Media, Insurance, Medical Systems, and Consumer Products.
-•	Architected and developed integrations between Oracle ERP and third-party platforms (e.g., Salesforce, ServiceNow) using Oracle Integration Cloud (OIC), APIs, Informatica, and Pentaho, enabling seamless data exchange and process automation.
-•	Built robust reporting architectures and implemented predictive models using SQL, Python, and visualization tools to forecast demand, optimize inventory levels, and address potential disruptions.
-•	Directed data migrations from legacy systems such as PeopleSoft and Oracle EBS to Oracle Cloud ERP, ensuring accuracy, integrity, and seamless implementation.
-•	Designed and deployed interactive dashboards and reports using Snowflake, BICC, and MicroStrategy to provide actionable insights and enhance supply chain performance monitoring.
-•	Led supply chain optimization efforts by developing advanced algorithms and applying constraint-based planning to improve operational efficiency, reduce costs, and elevate customer satisfaction.
-•	Partnered with global cross-functional teams to implement scalable ERP and supply chain capabilities by integrating data from ERP systems, logistics providers, and external market sources.
-•	Conducted SOX compliance audits and validated year-end financial reports for high-profile clients, ensuring strict adherence to regulatory standards.       
-      - layout: left
-        title: Accenture
-        link: accenture.com
-        link_text: accenture.com
-        sub_title: Techno-Functional Lead/ Senior Software Engineer/ Conversions Consultant
-        caption: | #
-          - July 2011 - April 2018 
+    - title: Accenture
+      link: https://accenture.com
+      link_text: accenture.com
+      sub_title: Techno-Functional Lead/Senior Software Engineer/Conversions Consultant
+      dates: July 2011 - April 2018
+      location: Wayne, PA (USA) / Bangalore (India) / Cape Town (South Africa)
+      description: |
+        - Oracle EBS R12 Upgrade (SCRUM-Agile):
+          - Developed conversion utilities to migrate data from Oracle 11i to R12, accommodating custom workflows, formulas, reports, and interfaces.
+        - Oracle EBS Development (SCRUM-Agile):
+          - Designed and implemented complex interfaces to streamline contract securitization and journal entry processing.
+          - Reclassified Direct Finance to Operating Leases per US GAAP, ensuring compliance through reconciliation and clearance of account balances.
+          - Conducted impact analyses, created custom workflows, and developed extensions for Oracle Lease Management (OLM).
+        - Oracle E-Biz Suite Support:
+          - Delivered production support for Oracle Apps 11i, resolving defects and managing change requests for modules such as Lease Management, Financials, Inventory, and Order Management.
+          - Addressed complex bugs, implemented data fixes, and managed escalations to ensure SLA adherence.
+        - Oracle EBS Rollout:
+          - Led data conversions from legacy systems to Oracle EBS for modules like AP, AR, Inventory, and Fixed Assets across multiple regions, including the Middle East, Asia, and Latin America.
+          - Developed localized reports and extensions using XML/BI Publisher, meeting regional compliance requirements.
+          - Automated migration processes with UNIX shell scripts and ensured successful UAT, SIT, and post-go-live support.
 
-          - Wayne, PA (USA) / Bangalore (India) / Cape Town (South Africa)
-
-        # caption: Wayne, PA, USA/ Bangalore, India, Cape Town, South Africa
-        description: | # this will include new lines to allow paragraphs
-•	Oracle EBS R12 Upgrade (SCRUM-Agile):
-  o	Developed conversion utilities to migrate data from Oracle 11i to R12, accommodating custom workflows, formulas, reports, and interfaces.
-•	Oracle EBS Development (SCRUM-Agile):
-  o	Designed and implemented complex interfaces to streamline contract securitization and journal entry processing.
-  o	Reclassified Direct Finance to Operating Leases per US GAAP, ensuring compliance through reconciliation and clearance of account balances.
-  o	Conducted impact analyses, created custom workflows, and developed extensions for Oracle Lease Management (OLM).
-•	Oracle E-Biz Suite Support:
-  o	Delivered production support for Oracle Apps 11i, resolving defects and managing change requests for modules such as Lease Management, Financials, Inventory, and Order Management.
-  o	Addressed complex bugs, implemented data fixes, and managed escalations to ensure SLA adherence.
-•	Oracle EBS Rollout:
-  o	Led data conversions from legacy systems to Oracle EBS for modules like AP, AR, Inventory, and Fixed Assets across multiple regions, including the Middle East, Asia, and Latin America.
-  o	Developed localized reports and extensions using XML/BI Publisher, meeting regional compliance requirements.
-  o	Automated migration processes with UNIX shell scripts and ensured successful UAT, SIT, and post-go-live support.
-  - title: Education and Certifications
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Bachelor of Technology (Computer Engineering), NMIMS University, Mumbai, India (2007-2011)
-      - ICAgile Certified Professional (2018)			               
-      - Business Analytics Nanodegree, Udacity (2020)
-      
+- title: Education and Certifications
+  layout: text
+  content: |
+    - Bachelor of Technology (Computer Engineering), NMIMS University, Mumbai, India (2007-2011)
+    - ICAgile Certified Professional (2018)
+    - Business Analytics Nanodegree, Udacity (2020)
 
 # Footer
 footer_show_references: true
-# references_title: References available on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -121,4 +109,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
