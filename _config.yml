@@ -53,7 +53,7 @@ Experienced Technology and Program Manager with over 14 years of expertise in pr
 •	Training & Mentorship: Proven ability to onboard and mentor teams, ensuring seamless knowledge transfer and alignment.
 •	Innovation & Upskilling: AI/ML enthusiast with a focus on implementing emerging technologies to drive business transformation.
 
-  - title: Experience 
+  - title: Professional Experience 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -68,14 +68,14 @@ Experienced Technology and Program Manager with over 14 years of expertise in pr
 
         # caption: San Jose, CA
         description: | # this will include new lines to allow paragraphs
-          -	Assessed and identified the best middleware and BI solution for Reporting based on the client business process data flow, data type and data volumes.
-          -	Designed and built the integration and reporting architecture needed to enable integration between Oracle Cloud and other reporting tools like MicroStrategy and performed data mapping between the systems.
-          -	Developed a prototype for Pricing and PaaS layer in Oracle VBCS to integrate Oracle Cloud Projects and Revenue with third party service, delivery and fulfillment systems e.g., Salesforce, ServiceNow etc.
-          -	Developed Functional and technical specification documents for reports (localization included) and conversions in Oracle Cloud modules of Purchasing, Manufacturing, SCM, Financials (Revenue Management included), Projects, Service Contracts, Subscription Management and Fixed Assets. Lead the Reports and Conversion teams as well.
-          -	Developed Dual Reporting Report of IFRS 15 vs GAAP Accounting for Revenue Recognition.
-          -	Worked on integration of Zuora RevPro with Oracle, Salesforce and other applications via Pentaho and MuleSoft.
-          -	Audited and tested several financial year-end reports across multiple Oracle integrated systems for SOX compliance for a Technology conglomerate.
-          
+•	Designed and delivered comprehensive supply chain solutions across industries, including Technology, Media, Insurance, Medical Systems, and Consumer Products.
+•	Architected and developed integrations between Oracle ERP and third-party platforms (e.g., Salesforce, ServiceNow) using Oracle Integration Cloud (OIC), APIs, Informatica, and Pentaho, enabling seamless data exchange and process automation.
+•	Built robust reporting architectures and implemented predictive models using SQL, Python, and visualization tools to forecast demand, optimize inventory levels, and address potential disruptions.
+•	Directed data migrations from legacy systems such as PeopleSoft and Oracle EBS to Oracle Cloud ERP, ensuring accuracy, integrity, and seamless implementation.
+•	Designed and deployed interactive dashboards and reports using Snowflake, BICC, and MicroStrategy to provide actionable insights and enhance supply chain performance monitoring.
+•	Led supply chain optimization efforts by developing advanced algorithms and applying constraint-based planning to improve operational efficiency, reduce costs, and elevate customer satisfaction.
+•	Partnered with global cross-functional teams to implement scalable ERP and supply chain capabilities by integrating data from ERP systems, logistics providers, and external market sources.
+•	Conducted SOX compliance audits and validated year-end financial reports for high-profile clients, ensuring strict adherence to regulatory standards.       
       - layout: left
         title: Accenture
         link: accenture.com
@@ -88,28 +88,19 @@ Experienced Technology and Program Manager with over 14 years of expertise in pr
 
         # caption: Wayne, PA, USA/ Bangalore, India, Cape Town, South Africa
         description: | # this will include new lines to allow paragraphs
-          -	Developed conversion utilities, for upgrade of data from 11i to R12.
-          -	Worked in additional extensions to accommodate the customizations of formulae, forms, reports, interfaces and accounting templates.
-          -	The project involved developing complex interfaces with external applications, to send and receive relevant information in order to securitize contracts, and receive the journal entries, based on the pool selection and collateral servicing.
-          -	Worked on a project involving the reclassification of Direct Finance to Operating Leases to meet the requirements of US GAAP. It involved clearance and reconciliation of account balances.
-          -	Performed impact analysis in all integrated modules to OLM.
-          -	Designed and developed multiple forms, extensions, reports, customization of workflows (OLM and FA Account Generator), accounting templates, profile options, value sets, and configuration of DFF's.
-          -	Worked in Production support of Oracle Apps 11i, and responsible for resolving change requests/defects in the modules of OLM (Oracle Lease Management) and its integration with Oracle Financials General Ledger, Inventory, Order Management, Install Base and Fixed Assets.
-          -	Worked on complex bug and data fixes in components of reports, forms, interfaces, extensions, OAF, workflows and patch analysis, in the Oracle Lease Management modules of ITR (Invoice to Receipt), DTC (Delinquency to Cash), FIN(Financials), QTT (Quote to Termination), CTB (Cash Application to Booking), ATD (Asset to Disposal), INQ(Inquiry), INT(Interfaces) and Collections.
-          -	Responsible for technical Status Reporting, technical Issue Resolution and handling of escalations and onsite communication for technical issues, to make sure SLAs are met.
-          -	Performed conversions i.e., extracted, translated and loaded from legacy system to Oracle in client for the modules of AP, AR, INV and FA
-          -	Worked on rollouts of Middle East, Asia, Caspian, Latin America and Africa
-          -	Developed complex form in OPM for Locator movement, to recap sales order and other complex forms in AR.
-          -	Created conversion utilities with UI for loading data in CRM, Sales Person, OM and HR Locations.
-          -	Developed Oracle configuration Loaders for Responsibilities, Profile options and other AOL components. Developed MRC Initial balance loader for inventory items loading.
-          -	Configuration of Stock Locators and Org related setups as per AP 322
-          -	Developed Latin American Localization RDF reports, XML/BI Publisher reports (including translatable templates).
-          -	Developed reports for Check Format, bank extracts and reconciliation reports, AR VAT Tax reports, complex dot-matrix based invoice printing reports, payment order reports, Payables VAT Perception, Withholding Taken Flat Files (Income Tax and Gross Revenue), Proforma (Invoice) Report, Ship Ticket and Delivery Ticket audit reports and Remit to (Bill of Sale) Reports, Trial Balance (Localization) reports. and other reports for GL, Inventory Org, Document Ordering, Org assignment and Freight carriers.
-          -	Developed complex Extension Utilities including, procedures like explaining amount in words. Implemented the procedures for Russian, Spanish, French Portuguese, based on the Latin American localization  
-          -	Developed UNIX shell Scripts to automate migration of components across environments and automation of validation of the migration of objects.
-          -	Worked on test script creation and defect resolution for Unit testing, UAT, SIT and post go-live
-
-
+•	Oracle EBS R12 Upgrade (SCRUM-Agile):
+  o	Developed conversion utilities to migrate data from Oracle 11i to R12, accommodating custom workflows, formulas, reports, and interfaces.
+•	Oracle EBS Development (SCRUM-Agile):
+  o	Designed and implemented complex interfaces to streamline contract securitization and journal entry processing.
+  o	Reclassified Direct Finance to Operating Leases per US GAAP, ensuring compliance through reconciliation and clearance of account balances.
+  o	Conducted impact analyses, created custom workflows, and developed extensions for Oracle Lease Management (OLM).
+•	Oracle E-Biz Suite Support:
+  o	Delivered production support for Oracle Apps 11i, resolving defects and managing change requests for modules such as Lease Management, Financials, Inventory, and Order Management.
+  o	Addressed complex bugs, implemented data fixes, and managed escalations to ensure SLA adherence.
+•	Oracle EBS Rollout:
+  o	Led data conversions from legacy systems to Oracle EBS for modules like AP, AR, Inventory, and Fixed Assets across multiple regions, including the Middle East, Asia, and Latin America.
+  o	Developed localized reports and extensions using XML/BI Publisher, meeting regional compliance requirements.
+  o	Automated migration processes with UNIX shell scripts and ensured successful UAT, SIT, and post-go-live support.
   - title: Education and Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
